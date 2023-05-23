@@ -1,0 +1,36 @@
+header{
+    
+    background-color: #005555;
+    color: azure;
+    padding: 3px;
+}
+nav{
+    background-color: #069A8E;
+    padding: 5px;
+    color: azure;
+}
+article {
+    background-color: #A1E3D8;
+    padding: 5px;
+    color: black;
+    grid-column: 1/4;
+}
+aside{
+    background-color: #F7FF93;
+    grid-column: 4/5;
+    padding: 20px;
+}
+footer{
+    background-color: #eef3ae;
+    padding: 5px;
+    color: black;
+}
+section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.menu{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
