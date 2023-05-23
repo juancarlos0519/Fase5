@@ -23,7 +23,7 @@ function App() {
         <h4>Juan Carlos Valencia Caldas</h4>
 
         <h6>Enlace del proyecto</h6>
-        <a href="index.html">Haz click aqui para ir al proyecto</a>
+        <a href="inicio.html">Haz click aqui para ir al proyecto</a>
         
       </div>
       <p className="read-the-docs">
